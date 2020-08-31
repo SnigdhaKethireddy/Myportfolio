@@ -1,0 +1,284 @@
+
+
+body
+{
+  /*background-color: #f5f5f5;
+  margin: 0;
+   padding: 0;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Titillium Web", sans-serif;
+  margin: 0 auto;
+  position: relative; /* usually the parent, in this case the body element, has position relative so that the absolute positioned child is positioned relative to it */
+  /*height: 100%; /* 100% of the viewport height */
+  /*margin: 0;
+  font-family:Rajdhani;*/
+ position: relative; /* usually the parent, in this case the body element, has position relative so that the absolute positioned child is positioned relative to it */
+  height: 100%; /* 100% of the viewport height */
+  margin: 0;
+  font-family:'Times New Roman', Times, serif
+  
+}
+   
+.know p:hover
+{
+  color:yellow;
+  cursor: pointer;
+}
+
+.row h6:hover
+{
+  color:yellow;
+  cursor: pointer;
+}
+
+
+
+
+
+/*.topnav {
+  position: fixed;
+  background-color: #000033;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width:100%;
+}
+
+/* Style the links inside the navigation bar */
+/*.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+/* Change the color of links on hover */
+/*.topnav a:hover {
+  background-color: none;
+  color: yellow;
+
+
+}
+
+
+.topnav a:active {
+  background-color: none;
+  color: yellow;
+}
+.topnav b {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 0px 35px;
+  text-decoration: none;
+  font-size: 30px;
+}*/
+.page {
+       margin: 40px;
+            }
+
+
+ h3{
+   /* margin: 30px; */
+   color: white;
+ }
+
+ h6{
+  font-size:15px ;
+  /* margin:30px; */
+  color:gray;
+ }
+ 
+ img{
+margin:30px;
+     height: 300px;
+     width: 300px;
+}
+
+.image:after{
+     display: flex;
+    height: 261px;
+    background-color: white;
+    content:" ";
+    width: 1px;
+    margin-left: 10px;
+}
+
+.partition:after{
+  display: block !important;
+    height: 1px;
+    background-color: white;
+    content:" ";
+    width: auto;
+    margin-left: 30px;
+    
+}
+
+.text {
+  color:gray;
+}
+label
+{
+  color:dodgerblue;
+  font-family: 'Times New Roman', Times, serif !important;
+  
+  font-size:20px;
+  cursor:pointer
+ 
+}
+label:hover{
+  color:yellow;
+}
+
+.know
+{
+ 
+  margin-top: 24px;
+  color:gray;
+}
+
+.dark-area {
+                background-color: #666;
+                padding: 40px;
+                margin: 0 -40px 20px -40px;
+                clear: both;
+      }
+
+            .clearfix:before,.clearfix:after {content: " "; display: table;}
+            .clearfix:after {clear: both;}
+            .clearfix {*zoom: 1;}
+
+.square-box {
+    padding: 25px;
+    border-radius: 0%;
+    border-color: dodgerblue;
+    border-style: solid;
+    background-color: #000000;
+}
+
+.text1 {
+    margin-left: 35% !important;
+    margin-right: 35% !important;
+}
+.text1:after{
+  display: block !important;
+    height: 1px;
+    background-color: skyblue;
+    content:" ";
+    margin-left: 35% !important;
+    margin-right: 35% !important;
+}
+
+
+.square-box-2 {
+    padding: 33px !important;
+}
+
+.skills-section{
+    margin: 20px;
+}
+
+.summary {
+   background-image:-webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.7)),to(rgba(0, 0, 0, 0.7))),url(Resources/img/keyboard.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(Resources/img/keyboard.jpg);
+    background-size: cover;
+    color: #fff;
+    background-attachment: fixed;
+    height: 450px;
+    width: 100%;
+}
+
+
+
+.circle-icon {
+    padding:40px;
+    border-radius: 50%;
+    border-color: dodgerblue;
+    border-style: solid;
+}
+
+.circle-icon1{
+    padding:20px;
+    border-radius: 50%;
+    border-color: gray;
+    border-style: solid;
+    background-color: gray;
+}
+
+.footer{
+  
+  color:rgb(146, 7, 7);
+}
+
+.footer-nav{
+    list-style: none;
+    float: left;
+}
+.social-links{
+    list-style: none;
+}
+ 
+.footer-nav li,.social-links li {
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+
+.footer-nav li:last-child,.social-links li:last-child {
+    margin-right: 0px;
+}
+.footer-nav li a:link,
+.footer-nav li a:visited,
+.social-links li a:link,
+.social-links li a:visited{
+    border: 0;
+    text-decoration: none;
+    color: #818181;
+    -webkit-transition: color,0.2s;
+    transition: color,0.2s;
+    font-size: 20px
+}
+.footer-nav li a:hover
+
+{ 
+   color:yellow;
+}
+.social-links li a:link,
+.social-links li a:visited{
+    font-size: 160%;
+}
+.ion-social-facebook,
+.ion-social-twitter,
+.ion-social-googleplus,
+.ion-social-instagram{
+    -webkit-transition: color,0.2s;
+    transition: color,0.2s;
+}
+
+.social-links li a:hover
+{
+color:yellow;
+}
+
+
+.ion-social-facebook:hover,.ion-social-facebook:active{
+    color: #3b5998;
+}
+.ion-social-googleplus:hover,.ion-social-googleplus:active{
+    color: #dd4b39;
+}
+.ion-social-twitter:hover,.ion-social-twitter:active{
+    color: #00aced;
+}
+.ion-social-instagram:hover,.ion-social-instagram:active{
+    color: #517fa4;
+}
+footer p {
+    text-align: center;
+    color: #888;
+    font-size: 95%;
+    margin-top: 15px;
+}
+

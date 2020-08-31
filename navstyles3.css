@@ -1,0 +1,40 @@
+ body{
+   
+  background-color:rgb(146, 7, 7);
+  overflow-x: hidden;
+  overflow-y: hidden;
+ }
+ 
+
+
+.topnav {
+
+  background-color:black;
+  overflow: hidden;
+    font-family: 'Roboto' , sans-serif;
+    line-height: normal;
+}
+
+
+/* Style the links inside the 
+
+
+
+igation bar */
+
+
+
+.topnav a:active {
+  background-color: none;
+  color: yellow;
+}
+ul{
+    padding-top: 10px;
+}
+ul b {
+  color: white;
+  text-align: center;
+  padding: 0px 35px;
+  text-decoration: none;
+  font-size: 30px;
+}

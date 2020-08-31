@@ -1,0 +1,129 @@
+
+
+/*.background-img
+{
+background-image: url(snigdha.jpg);
+      background-repeat: no-repeat;
+      background-position: left bottom;
+      }
+
+ h1{
+  margin-top: 25px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 120px;
+ }
+ img{
+ 	 margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+ }*/
+js
+.skillsSection{
+    margin: 20px;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    
+    color: white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.devices{
+    margin: 0;
+    padding: 0;
+}
+h4{
+    margin: 10px;
+    margin-top: 20px;
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    margin-left: 26%;
+    margin-top: 4%;
+    
+}
+.circle-icon {
+    background: #ffffff;
+    padding:20px;
+    border-radius: 50%;
+}
+.icon-para {
+    margin-left: 0px !important;
+    float:left;
+    text-align: left;
+}
+.device-heading{
+    margin: 0px;
+    padding: opx;
+    float: left;
+    color: white;
+}
+
+
+/************** work experience**********/
+.work-experience{
+    margin: 20px;
+}
+
+.work-heading{
+    text-align: left !important;
+    font-size: 40px !important;
+}
+
+.work-para {
+    text-align: left !important;
+}
+
+.years ul {
+    margin-left: 15%;
+
+    
+}
+.years:after{
+     display: inline-block;
+    height: 200px;
+    background-color: white;
+    content:" ";
+    width: 1px;
+    margin-left: 60%;
+}
+
+.partition:after{
+  display: block !important;
+    height: 1px;
+    background-color: white;
+    content:" ";
+    width: auto;
+    margin-left: 30px;
+    
+}
+
+.text {
+  margin-left: -452px;
+  margin-top: 24px;
+  color:gray;
+}
+
+.job-desc {
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    text-align: left;
+    
+}
+/*********EDUCATION***************/
+.education{
+    margin: 20px;
+}

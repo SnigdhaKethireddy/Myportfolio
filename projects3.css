@@ -1,0 +1,88 @@
+
+h1{
+  margin:30px;
+  color: white;
+  font-size: 60px;
+}
+
+h6{
+ 
+ margin:30px;
+}
+.mywork-one{
+padding-left: 60px;
+}
+.mywork-head{
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+padding-top: 40px;
+color: white;
+}
+.mywork-desc{
+padding-top: 20px;
+padding-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+width: 60%;
+color: #808080;
+}
+
+.button {
+ background-color: black;
+ border: 2px solid #0099ff;
+ color: white;
+ padding: 10px 25px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+}
+.button1{
+ background-color: #0099ff; 
+}
+
+.work-buttons{
+padding-left: 60px;
+padding-top: 60px;
+}
+.allWorks{
+padding-left: 60px;
+padding-top: 40px;
+padding-right: 60px;
+}
+.work-block{
+float: left;
+padding-bottom: 40px;
+padding-right: 60px;
+}
+.work-model1{
+float: left;
+}
+.work-model1{
+float: left;
+}
+.work-model2{
+float: left;
+}
+.work-model3{
+float: left;
+}
+.work-stream{
+padding-left: 20px;
+width: 120px;
+
+}
+.workhead{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+.workdesc{
+padding-top: 20px;
+color: #808080;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+}

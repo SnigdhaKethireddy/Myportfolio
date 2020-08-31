@@ -1,0 +1,637 @@
+.worksshowall
+      {
+        top:300px;
+        left:150px;
+        height:60px;
+        width:100px;
+        border-style: solid;
+       border-width: 3px;
+        border-left-width: 3px;
+       border-right-width: 3px;
+        border-color: #72bcd4;
+        background-color:#0a0215; 
+        color:white; 
+        position:absolute;
+        cursor: pointer;
+      }
+
+      .worksshowall:hover{
+      background-color:#72bcd4;
+      color:white;
+      }
+
+      .workswebsites
+      {
+        top:300px;
+        left:350px;
+        height:60px;
+              border-style: solid;
+      border-width: 3px;
+      border-left-width: 3px;
+      border-right-width: 3px;
+        width:100px;
+        border-color: #72bcd4;
+        background-color:#0a0215; 
+        color:white; 
+        position:absolute;
+        cursor: pointer;
+      }
+
+      .workswebsites:hover{
+        background-color:#72bcd4;
+        color:white;
+      }
+
+      .worksapps
+      {
+        top:300px;
+        left:600px;
+        height:60px;
+        width:100px;
+              border-style: solid;
+      border-width: 3px;
+      border-left-width: 3px;
+      border-right-width: 3px;
+        border-color: #72bcd4;
+        background-color:#0a0215; 
+        color:white; 
+        cursor: pointer;
+        position:absolute;
+      }
+
+      .worksapps:hover{
+        background-color:#72bcd4;
+        color:white;
+      }
+
+      .worksdesign
+      {
+        top:300px;
+        left:850px;
+        height:60px;
+        width:100px;
+              border-style: solid;
+      border-width: 3px;
+      border-left-width: 3px;
+      border-right-width: 3px;
+        border-color: #72bcd4;
+        background-color:#0a0215; 
+        color:white; 
+        cursor: pointer;
+        position:absolute;
+      }
+
+     .worksdesign:hover{
+        background-color:#72bcd4;
+        color:white;
+      }
+
+      .worksphotograph
+      {
+        top:300px;
+        left:1100px;
+        height:60px;
+              border-style: solid;
+      border-width: 3px;
+      border-left-width: 3px;
+      border-right-width: 3px;
+        width:140px;
+        border-color: #72bcd4;
+        background-color:#0a0215; 
+        color:white; 
+        cursor: pointer;
+        position:absolute;
+      }
+
+      .worksphotograph:hover{
+        background-color:#72bcd4;
+        color:white;
+      }
+
+   
+      .onshowp
+      {
+        top:800px;
+        color: white;
+      }
+
+      .css
+      {
+        top:2000px;
+        position:absolute;
+        left:50px;
+        color:#777777;
+      }
+
+      
+      .container
+      {
+        width:50%;
+        position:absolute;
+      }
+
+      .recogcontainer
+      {
+        width:50%;
+        position:absolute;
+      }
+
+      .photo
+      {
+        top:1900px;
+        left:700px;
+        width:30%;
+        position:absolute;
+      }
+
+      .photohe
+      {
+        top:1900px;
+        left:1000px;
+        color:#72bcd4;
+        position:absolute;
+      }
+
+      .paraph
+      {
+        top:1950px;
+        left:1000px;
+        color:#777777;
+        position:absolute;
+      }
+
+      .sport
+      {
+        top:2200px;
+        left:700px;
+        width:30%;
+        position:absolute;
+      }
+
+      .sporthe
+      {
+        top:2200px;
+        left:1000px;
+        color:#72bcd4;
+        position:absolute;
+      }
+
+      .parasport
+      {
+        top:2300px;
+        left:1000px;
+        color:#777777;
+        position:absolute;
+      }
+
+      .webre
+      {
+        top:2500px;
+        left:700px;
+        width:30%;
+        position:absolute;
+      }
+
+      .webhe
+      {
+        top:2500px;
+        left:1000px;
+        color:#72bcd4;
+        position:absolute;
+      }
+
+      .websport
+      {
+        top:2600px;
+        left:1000px;
+        color:#777777;
+        position:absolute;
+      }
+
+      .languageskills
+      {
+        width:50%;
+        position:absolute;
+      }
+
+      .languagesoftware
+      {
+        top:2900px;
+        left:50px;
+        position:absolute;
+        font-size:32px;
+      }
+
+      .marath
+      {
+        top:3050px;
+        left:50px;
+        position:absolute;
+      }
+
+      .hindi
+      {
+        top:3050px;
+        left:300px;
+        position:absolute;
+      }
+
+      .engl
+      {
+        top:3050px;
+        left:550px;
+        position:absolute;  
+      }
+
+      
+      .photopar
+      {
+        top:3750px;
+        left:270px;
+        color:#777777;
+        position:absolute; 
+      }
+
+      .fashionho
+      {
+        top:3600px;
+        left:450px;
+        width:10%;
+        position:absolute
+      }
+
+      .fashionpar
+      {
+        top:3750px;
+        left:480px;
+        color:#777777;
+        position:absolute; 
+      }
+
+      .techho
+      {
+        top:3600px;
+        left:650px;
+        width:10%;
+        position:absolute
+      }
+
+      .techpar
+      {
+        top:3750px;
+        left:680px;
+        color:#777777;
+        position:absolute; 
+      }
+
+      #login, #checkin{
+        background:white;
+        width:600px;
+        height:250px;
+        float:right;
+        margin-top:40px;
+        margin-left:25%;
+        display: none;
+        position:absolute;
+        /* z-index: 99 !important; */
+        border-radius: 5px;
+        padding-top: 1em;
+      }
+
+      #checkin{
+        height:500px;
+      }
+
+      body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Add a background color when the inputs get focus */
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for all buttons */
+/* button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+} */
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  color:#0a0215;
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  color:#0a0215;
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  /* z-index: 1; Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #474e5d;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
+
+.workid1
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+
+.workid2
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+
+.workid3
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+
+.workid4
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+
+.workid5
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+
+.workid6
+{
+  top:400px;
+  left:100px;
+  position:absolute;
+  color:white;
+  visibility:hidden;
+}
+.Menus {
+    background: #aaa url(../images/bg.jpg) no-repeat;
+    width: 800px;
+    height: 600px;
+    margin: 50px auto;
+}
+.panel {
+    background-color: #444;
+    height: 34px;
+    padding: 10px;
+}
+.panel a#login_pop, .panel a#join_pop {
+    border: 2px solid #aaa;
+    display: block;
+    float: right;
+    margin-right: 10px;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-shadow: 1px 1px #000;
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+}
+a#login_pop:hover, a#join_pop:hover {
+}
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    bottom: 0;
+    cursor: default;
+    left: 0;
+    opacity: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    visibility: hidden;
+    /* z-index: 1; */
+
+    -webkit-transition: opacity .5s;
+    -moz-transition: opacity .5s;
+    -ms-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    transition: opacity .5s;
+}
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+.popup {
+    border: 3px solid #fff;
+    display: inline-block;
+    left: 50%;
+    opacity: 0;
+    padding: 15px;
+    position: fixed;
+    text-align: justify;
+    top: 40%;
+    visibility: hidden;
+    z-index: 10;
+
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+
+    -webkit-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -moz-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -ms-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    -o-box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+    box-shadow: 0 1px 1px 2px rgba(0, 0, 0, 0.4) inset;
+
+    -webkit-transition: opacity .5s, top .5s;
+    -moz-transition: opacity .5s, top .5s;
+    -ms-transition: opacity .5s, top .5s;
+    -o-transition: opacity .5s, top .5s;
+    transition: opacity .5s, top .5s;
+}
+.overlay:target+.popup {
+    top: 50%;
+    opacity: 1;
+    visibility: visible;
+}
+.close {
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-decoration: none;
+    top: -15px;
+    width: 30px;
+
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-radius: 15px;
+}
+.close:before {
+    content: "X";
+    font-size: 24px;
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.9);
+}
+.close:hover {
+}
+.popup p, .popup div {
+    margin-bottom: 10px;
+}
+
+.popup label {
+    display: inline-block;
+    text-align: left;
+    width: 120px;
+}
+.popup input[type="text"], .popup input[type="password"] {
+    border: 1px solid;
+    margin: 0;
+    padding: 2px;
+
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+.popup input[type="text"]:hover, .popup input[type="password"]:hover {
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text],input[type=password], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color:black;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 0px;
+}
